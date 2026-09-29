@@ -1,5 +1,3 @@
-# ANN-Iris-Flower-Classification
-Iris flower classification using an Artificial Neural Network (ANN) with TensorFlow/Keras for multi-class classification.
 # ANN Iris Flower Classification
 
 This project uses an Artificial Neural Network (ANN) built with TensorFlow/Keras to classify Iris flowers into three different species based on their sepal and petal measurements.
